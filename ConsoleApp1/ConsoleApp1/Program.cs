@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+string nom = "Thomas";
+Console.WriteLine("Hello " + nom + " World!");
